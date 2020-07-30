@@ -1,0 +1,36 @@
+.searchBarContainer {
+    text-align: center;
+    margin: 30px auto;
+    position: relative;
+  }
+  
+  /* .searchButton {
+    width: 36px;
+    height: 36px;
+    margin-left: -40px;
+    border-radius: 100%;
+  } */
+  
+  .searchBarInputBox {
+    width: 60%;
+    padding: 10px;
+    border: 2px solid #dedede;
+    border-radius: 10px;
+    outline: none;
+    font-weight: 700;
+    color: #5c5c5c;
+  }
+
+  .MuiIconButton-edgeStart {
+    margin-left: -42px !important;
+    margin-top: -4px!important;
+}
+  
+  .searchBarInputBox:focus {
+    border: 2px solid #aeaeae;
+  }
+  
+  .searchBarInputBox::placeholder {
+    color: #bebebe;
+  }
+  

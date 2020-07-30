@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+  }
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #07bdbe !important;
+}
+
+.title{
+  font-size: 20px;
+}
