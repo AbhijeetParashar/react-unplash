@@ -16,5 +16,6 @@ This will install all the necesary dependency.
 2. ### `npm start` 
 This will start the app in the local browser in Port 3000
 
-
+## Live Demo
+https://react-photo-search-app.herokuapp.com/
 
